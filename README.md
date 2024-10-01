@@ -56,15 +56,12 @@ The dataset contains patient data, including various biomedical voice measuremen
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/parkinsons-disease-prediction.git
+    git clone https://github.com/ZainMirza-2004/Parkinsons-Disease-Prediction-Model.git
     ```
-2. **Install dependencies**:
+
+2. **Run the notebook or script**:
     ```bash
-    pip install -r requirements.txt
-    ```
-3. **Run the notebook or script**:
-    ```bash
-    python parkinsons_model.py
+    python main.py
     ```
 
 ## 📚 Results
@@ -74,7 +71,3 @@ The results show promising accuracy in predicting Parkinson's disease, with the 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/username/parkinsons-disease-prediction/issues) or submit a pull request.
-
----
-
-This README provides a comprehensive yet engaging overview of your project, guiding users through its objectives, implementation, and how to get started. Feel free to tailor the GitHub repository URL or any additional specifics as needed!
