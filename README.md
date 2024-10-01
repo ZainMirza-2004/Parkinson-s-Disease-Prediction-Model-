@@ -1,7 +1,3 @@
-Here's an engaging README for your Parkinson’s Disease Prediction Model:
-
----
-
 # Parkinson's Disease Prediction Model
 
 This project implements a machine learning model to predict the likelihood of Parkinson's disease based on patient data. Using the Gradient Boosting Classifier and SMOTE to address class imbalance, the model achieves an accuracy between 75% and 80%, making it a promising tool for early disease detection.
@@ -78,10 +74,6 @@ The results show promising accuracy in predicting Parkinson's disease, with the 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/username/parkinsons-disease-prediction/issues) or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
