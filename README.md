@@ -34,7 +34,7 @@ The dataset contains patient data, including various biomedical voice measuremen
 4. **Model Evaluation**: Use accuracy scores, confusion matrix, and classification report to evaluate performance.
 5. **Visualization**: Plot feature importance and correlation heatmaps for a deeper understanding of the data.
 
-##Key Tasks
+## Key Tasks
 
 - Exploratory Data Analysis (EDA)
 - Feature Scaling
